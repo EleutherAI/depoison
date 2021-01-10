@@ -5,7 +5,7 @@ setuptools.setup(
     scripts=['./scripts/depoison'],
     author='Sid Black',
     url='https://github.com/EleutherAI/depoison/',
-    download_url='https://github.com/EleutherAI/depoison/archive/1.0.tar.gz',
+    download_url='https://github.com/EleutherAI/depoison/archive/1.1.zip',
     description='Fixes poisoned directories in google cloud buckets',
     packages=['lib.depoison'],
     install_requires=['gsutil'],
