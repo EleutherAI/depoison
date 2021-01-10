@@ -1,7 +1,7 @@
 import setuptools
 setuptools.setup(
     name='depoison',
-    version='1.0',
+    version='1.1',
     scripts=['./scripts/depoison'],
     author='Sid Black',
     url='https://github.com/EleutherAI/depoison/',
